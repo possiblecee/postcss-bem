@@ -10,9 +10,9 @@ var config = {
     },
     bem: {
         separators: {
-            namespace: '--',
+            namespace: '_',
             descendent: '__',
-            modifier: '_'
+            modifier: '--'
         }
     }
 };
